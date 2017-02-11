@@ -1,0 +1,257 @@
+# Kodi Media Center language file
+# Addon Name: Nakamori
+# Addon id: plugin.video.nakamoriplugin
+# Addon Provider: BigRetroMike
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: bigretromike at gmail dot com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30001"
+msgid "Shoko Settings"
+msgstr ""
+
+msgctxt "#30002"
+msgid "IP Address or Hostname"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Port"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Query Timeout (s)"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Sync 'Watched status' to Shoko"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Shoko Server"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Watched Status Settings"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Language Display Priority"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Language"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Title Type"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Shoko User"
+msgstr ""
+
+msgctxt "#30012"
+msgid "User ID"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Use gzip"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Login"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Password"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Device name"
+msgstr ""
+
+msgctxt "#30018"
+msgid "API Key"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Searching"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Results Max Limit"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Video settings"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Percent to Play before Marking as Watched"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Notification Window when Marked as Watched"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Kodi Player Settings"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Max time to wait for buffer (in ms)"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Community"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Trigger Voting after each episode"
+msgstr ""
+
+msgctxt "#30033"
+msgid "TAG results Max Limit"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Trakt support"
+msgstr ""
+
+msgctxt "#30034"
+msgid "(WIP)Series Vote after completing it"
+msgstr ""
+
+msgctxt "#30035"
+msgid "(WIP)Enable voting for Trakt"
+msgstr ""
+
+msgctxt "#30036"
+msgid "(WIP)Trakt Scrobble (without Notification)"
+msgstr ""
+
+msgctxt "#30037"
+msgid "(WIP)Enable Trakt Scrobble Notification"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Show -continue-"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Use local file count for total episodes"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Skip Extra Info on Long Series"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Spam the Log with info (only enable if told to)"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Max episodes before data will be truncated"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Hide AniDB helper or otherwise useless tags"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Tag Blacklist"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Hide art style related tags"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Hide source tags (Manga, original, etc)"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Hide useful helper tags (mostly related to OP/ED style)"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Hide plot spoiler tags (so and so dies/wins/etc)"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Treat Subgroups as 'Seasons'"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Use Server Title"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Use Server Sorting"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Browsing"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Time to wait for refresh to move selection (adjust for sync)"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Title Settings"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Context Menu Settings"
+msgstr ""
+
+msgctxt "#30058"
+msgid "More Info"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Vote Episode"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Vote Series"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Play (Do not Mark as Watched)"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Use new Mark as Watched Style"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Enable remote debugging for an IDE"
+msgstr ""
+
+msgctxt "#30064"
+msgid "IP Address for IDE"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Port for IDE"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Request that the server not send cast"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Use the source thumbnail ratio instead of 16:9"
+msgstr ""
