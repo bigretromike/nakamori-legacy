@@ -23,7 +23,7 @@ except ImportError:
 
 handle = int(sys.argv[1])
 
-__addon__ = xbmcaddon.Addon(id='plugin.video.nakamori')
+__addon__ = xbmcaddon.Addon(id='plugin.video.nakamori-legacy')
 __addonversion__ = __addon__.getAddonInfo('version')
 __addonid__ = __addon__.getAddonInfo('id')
 

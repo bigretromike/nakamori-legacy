@@ -10,7 +10,7 @@ from StringIO import StringIO
 import xml.etree.ElementTree as Tree
 
 # get addon info
-__addon__ = xbmcaddon.Addon(id='plugin.video.nakamori')
+__addon__ = xbmcaddon.Addon(id='plugin.video.nakamori-legacy')
 __addonversion__ = __addon__.getAddonInfo('version')
 __addonid__ = __addon__.getAddonInfo('id')
 __addonname__ = __addon__.getAddonInfo('name')
